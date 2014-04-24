@@ -15,25 +15,6 @@
 	},
 	"buffers":
 	[
-		{
-			"contents": "\n<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <meta name=\"description\" content=\"\">\n    <meta name=\"author\" content=\"\">\n    <link rel=\"shortcut icon\" href=\"../../assets/ico/favicon.ico\">\n\n    <title>Narrow Jumbotron Template for Bootstrap</title>\n\n    <!-- Bootstrap core CSS -->\n    <link href=\"../../dist/css/bootstrap.min.css\" rel=\"stylesheet\">\n\n    <!-- Custom styles for this template -->\n    <link href=\"jumbotron-narrow.css\" rel=\"stylesheet\">\n\n    <!-- Just for debugging purposes. Don't actually copy this line! -->\n    <!--[if lt IE 9]><script src=\"../../assets/js/ie8-responsive-file-warning.js\"></script><![endif]-->\n\n    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->\n    <!--[if lt IE 9]>\n      <script src=\"https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js\"></script>\n      <script src=\"https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js\"></script>\n    <![endif]-->\n  </head>\n\n  <body>\n\n    <div class=\"container\">\n      <div class=\"header\">\n        <ul class=\"nav nav-pills pull-right\">\n          <li class=\"active\"><a href=\"#\">Home</a></li>\n          <li><a href=\"#\">About</a></li>\n          <li><a href=\"#\">Contact</a></li>\n        </ul>\n        <h3 class=\"text-muted\">Project name</h3>\n      </div>\n\n      <div class=\"jumbotron\">\n        <h1>Jumbotron heading</h1>\n        <p class=\"lead\">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>\n        <p><a class=\"btn btn-lg btn-success\" href=\"#\" role=\"button\">Sign up today</a></p>\n      </div>\n\n      <div class=\"row marketing\">\n        <div class=\"col-lg-6\">\n          <h4>Subheading</h4>\n          <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>\n\n          <h4>Subheading</h4>\n          <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>\n\n          <h4>Subheading</h4>\n          <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>\n        </div>\n\n        <div class=\"col-lg-6\">\n          <h4>Subheading</h4>\n          <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>\n\n          <h4>Subheading</h4>\n          <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>\n\n          <h4>Subheading</h4>\n          <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>\n        </div>\n      </div>\n\n      <div class=\"footer\">\n        <p>&copy; Company 2014</p>\n      </div>\n\n    </div> <!-- /container -->\n\n\n    <!-- Bootstrap core JavaScript\n    ================================================== -->\n    <!-- Placed at the end of the document so the pages load faster -->\n  </body>\n</html>\n",
-			"settings":
-			{
-				"buffer_size": 3042,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "",
-			"file": "/C/Users/Billy Bob/Documents/GitHub/BootStrap_Practice/navigationbar.html",
-			"file_size": 0,
-			"file_write_time": 130428456924656836,
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -63,6 +44,10 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Billy Bob/Documents/GitHub/BootStrap_Practice/NavigationBar/navigationbar.html",
+		"/C/Users/Billy Bob/Documents/GitHub/BootStrap_Practice/NavigationBar/navigationbar_static_top.html",
+		"/C/Users/Billy Bob/Documents/GitHub/BootStrap_Practice/navigationbar.html",
+		"/C/Users/Billy Bob/Documents/GitHub/BootStrap_Practice/NavigationBar/navigationBar.sublime-project",
 		"/C/Users/Billy Bob/Desktop/Angular Practice/BootStrap Practice/JumboTron narrow/JumboTron Narrow.html",
 		"/C/Users/Billy Bob/Documents/GitHub/BootStrap_Practice/NavigationBar/css/navbar-fixed-top.css",
 		"/C/Users/Billy Bob/Desktop/Angular Practice/BootStrap Practice/JumboTron/JumboTron.html",
@@ -121,62 +106,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"settings":
-					{
-						"buffer_size": 3042,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								165,
-								165
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/C/Users/Billy Bob/Documents/GitHub/BootStrap_Practice/navigationbar.html",
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/AngularJS/AngularJS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -226,16 +157,16 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": false,
-	"side_bar_width": 150.0,
+	"side_bar_width": 198.0,
 	"status_bar_visible": true
 }
