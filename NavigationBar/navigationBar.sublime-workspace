@@ -4,8 +4,36 @@
 		"selected_items":
 		[
 			[
+				"get",
+				"getElementById"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
 				"fon",
-				"font-family"
+				"font-weight"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"f",
+				"font-size"
 			],
 			[
 				"margi",
@@ -24,45 +52,19 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/Billy Bob/Documents/GitHub/Sushi_Cafe/Sushi_Cafe.html",
+			"file": "/C/Users/Billy Bob/Documents/GitHub/JavaScript_Practice/JavaScript_Practice.html",
 			"settings":
 			{
-				"buffer_size": 13211,
+				"buffer_size": 5098,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/Billy Bob/Documents/GitHub/Sushi_Cafe/css/sushi_cafe_style.css",
+			"file": "/C/Users/Billy Bob/Documents/GitHub/JavaScript_Practice/js/practice.js",
 			"settings":
 			{
-				"buffer_size": 1356,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Users/Billy Bob/Documents/GitHub/Sushi_Cafe/Greek_Fresh.html",
-			"settings":
-			{
-				"buffer_size": 7354,
+				"buffer_size": 3127,
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/Billy Bob/Documents/GitHub/Sushi_Cafe/css/greek_fresh.css",
-			"settings":
-			{
-				"buffer_size": 29397,
-				"line_ending": "Windows",
-				"name": "/* @override"
-			}
-		},
-		{
-			"file": "/C/Users/Billy Bob/Documents/GitHub/Sushi_Cafe/css/css_practice.css",
-			"settings":
-			{
-				"buffer_size": 1259,
-				"line_ending": "Windows",
-				"name": "body h1{"
 			}
 		}
 	],
@@ -72,6 +74,10 @@
 		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"Snippet: ",
+				"Snippet: |currency"
+			],
 			[
 				"pack",
 				"Package Control: Install Package"
@@ -94,6 +100,43 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos_Practice/app/controllers/controllers.js",
+		"/C/Users/Billy Bob/Documents/GitHub/JavaScript_Practice/js/bootstrap.js",
+		"/C/Users/Billy Bob/Documents/GitHub/JavaScript_Practice/js/bootstrap.min.js",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/partials/customers.html",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos_Practice/CustomerManagementApp.html",
+		"/C/Users/Billy Bob/Documents/GitHub/JavaScript_Practice/BootStrap Themes Practice.html",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos_Practice/node_modules/connect/index.js",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos_Practice/Scripts/angular-route.js",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos_Practice/server.js",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos_Practice/server-practice.js",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos_Practice/app/app.js",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos_Practice/app/app-practice.js",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos_Practice/Content/customerManagementStyles-Practice.css",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos_Practice/app/partials/customers.html",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos_Practice/app/partials/customers-practice.html",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos_Practice/DemoList.html",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos_Practice/Content/customerManagementStyles.css",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/CustomerManagementApp.html",
+		"/C/Users/Billy Bob/Documents/GitHub/Html_CSS_Practice/Intro.html",
+		"/C/Users/Billy Bob/Documents/GitHub/Html_CSS_Practice/css/intro-practice.css",
+		"/C/Users/Billy Bob/Documents/GitHub/Sushi_Cafe/css/greek_fresh.css",
+		"/C/Users/Billy Bob/Documents/GitHub/Sushi_Cafe/Greek_Fresh.html",
+		"/C/Users/Billy Bob/Documents/GitHub/Html_CSS_Practice/css/theme.css",
+		"/C/Users/Billy Bob/Documents/GitHub/BootStrap_Practice/Theme Features/BootStrap Themes Practice.html",
+		"/C/Users/Billy Bob/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Billy Bob/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Billy Bob/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Billy Bob/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Program Files (x86)/Sirtech/Wizardry 8/CosmicForge_UNICODE/w8stringroles.usr",
+		"/C/Users/Billy Bob/Documents/GitHub/Reddit_is_Fun_Practice/project.properties",
+		"/C/Users/Billy Bob/Documents/GitHub/Reddit_is_Fun_Practice/.project",
+		"/C/Users/Billy Bob/Documents/GitHub/Reddit_is_Fun_Practice/.classpath",
+		"/C/Users/Billy Bob/Documents/GitHub/Reddit_is_Fun_Practice/.git/index",
+		"/C/Users/Billy Bob/Documents/GitHub/Html_CSS_Practice/README.markdown",
+		"/C/Users/Billy Bob/Documents/GitHub/Sushi_Cafe/css/css_practice.css",
+		"/C/Users/Billy Bob/Documents/GitHub/Sushi_Cafe/Sushi_Cafe.html",
+		"/C/Users/Billy Bob/Documents/GitHub/Sushi_Cafe/css/sushi_cafe_style.css",
 		"/C/Users/Billy Bob/Desktop/Angular Practice/AngularJSDemos_Practice/CustomerManagementApp.html",
 		"/C/Users/Billy Bob/Documents/GitHub/Sushi_Cafe/css/theme.css",
 		"/C/Users/Billy Bob/Desktop/Node Scripts/server.js",
@@ -118,7 +161,6 @@
 		"/C/Users/Billy Bob/Desktop/Angular Practice/BootStrap Practice/Sign_In_Page/css/signin.css",
 		"/C/Users/Billy Bob/Desktop/Angular Practice/AngularJSDemos/CustomerManagementApp.html",
 		"/C/Users/Billy Bob/Desktop/Angular Practice/JQuery Mobile Practice/Tab_Practice.html",
-		"/C/Users/Billy Bob/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/C/Users/Billy Bob/Desktop/Angular Practice/index2.html",
 		"/C/Users/Billy Bob/Desktop/Angular Practice/Partials/View1.html",
 		"/C/Users/Billy Bob/Desktop/Angular Practice/Partials/View2.html",
@@ -144,6 +186,22 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"function",
+			"container",
+			"sauce",
+			"trans",
+			"media",
+			"modal",
+			"h3",
+			"modal",
+			"progress-striped",
+			"row",
+			"input",
+			"tab",
+			"auto",
+			"dropdown",
+			"style",
+			"image",
 			"script",
 			"collaspe"
 		],
@@ -153,6 +211,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"progress-striped active",
 			"collapse"
 		],
 		"reverse": false,
@@ -169,134 +228,55 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/Billy Bob/Documents/GitHub/Sushi_Cafe/Sushi_Cafe.html",
+					"file": "/C/Users/Billy Bob/Documents/GitHub/JavaScript_Practice/JavaScript_Practice.html",
 					"settings":
 					{
-						"buffer_size": 13211,
+						"buffer_size": 5098,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2186,
-								2186
+								5012,
+								5012
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
-							"tab_size": 4,
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 840.0,
+						"translation.y": 4543.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/C/Users/Billy Bob/Documents/GitHub/Sushi_Cafe/css/sushi_cafe_style.css",
+					"file": "/C/Users/Billy Bob/Documents/GitHub/JavaScript_Practice/js/practice.js",
 					"settings":
 					{
-						"buffer_size": 1356,
+						"buffer_size": 3127,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1355,
-								1355
+								3124,
+								3124
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 185.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/C/Users/Billy Bob/Documents/GitHub/Sushi_Cafe/Greek_Fresh.html",
-					"settings":
-					{
-						"buffer_size": 7354,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1724,
-								1724
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/AngularJS/AngularJS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 814.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/C/Users/Billy Bob/Documents/GitHub/Sushi_Cafe/css/greek_fresh.css",
-					"settings":
-					{
-						"buffer_size": 29397,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4989,
-								4989
-							]
-						],
-						"settings":
-						{
-							"auto_name": "/* @override",
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 8695.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/C/Users/Billy Bob/Documents/GitHub/Sushi_Cafe/css/css_practice.css",
-					"settings":
-					{
-						"buffer_size": 1259,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1257,
-								1257
-							]
-						],
-						"settings":
-						{
-							"auto_name": "body h1{",
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 2182.0,
+						"translation.y": 3082.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
