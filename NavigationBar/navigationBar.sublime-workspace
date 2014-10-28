@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"font",
+				"font-family"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
 				"in",
 				"innerHTML"
 			],
@@ -24,16 +32,8 @@
 				"font-weight"
 			],
 			[
-				"font",
-				"font-weight"
-			],
-			[
 				"back",
 				"background-color"
-			],
-			[
-				"padd",
-				"padding-left"
 			],
 			[
 				"w",
@@ -60,10 +60,26 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/todo.js",
+			"file": "/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/CustomerManagementApp.html",
 			"settings":
 			{
-				"buffer_size": 153,
+				"buffer_size": 2530,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/CustomerManagementApp2.html",
+			"settings":
+			{
+				"buffer_size": 2092,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Billy Bob/Documents/GitHub/jQuery/practice.html",
+			"settings":
+			{
+				"buffer_size": 6251,
 				"line_ending": "Windows"
 			}
 		}
@@ -100,44 +116,88 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/Content/customerManagementStyles.css",
+		"/C/Users/Billy Bob/Documents/GitHub/jQuery/practice.html",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/index.html",
+		"/C/Users/Billy Bob/Documents/GitHub/jQuery/css/practice.css",
+		"/C/Users/Billy Bob/Documents/GitHub/jQuery/scripts/practice.js",
+		"/C/Users/Billy Bob/Documents/GitHub/JavaScript_Practice/js/practice.js",
+		"/C/Users/Billy Bob/Documents/GitHub/jQuery/clever.html",
+		"/C/Users/Billy Bob/Documents/GitHub/jQuery/clever.js",
+		"/C/Users/Billy Bob/Documents/GitHub/jQuery/Clever",
+		"/C/Users/Billy Bob/Documents/GitHub/jQuery/practice_hidden.html",
+		"/C/Users/Billy Bob/Documents/GitHub/JQuery_Practice/JQuery_Practice.html",
+		"/C/Users/Billy Bob/Documents/GitHub/JQuery_Practice/scripts/jquery_practice.js",
+		"/C/Users/Billy Bob/Documents/GitHub/JQuery_Practice/JQuery_Practice2.html",
+		"/C/Users/Billy Bob/Documents/GitHub/jQuery_Practice2/JQuery_Practice3.html",
+		"/C/Users/Billy Bob/Documents/GitHub/JQuery_Practice/css/jquerypractice.css",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/directives/animatedView.js",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/directives/animatedView_practice2.js",
+		"/C/Users/Billy Bob/Documents/GitHub/JavaScript_Practice/JavaScript_Practice.html",
+		"/C/Users/Billy Bob/Documents/GitHub/JavaScript_Practice/JavaScript_Practice2.html",
+		"/C/Users/Billy Bob/Documents/GitHub/BootStrap_Practice/JumboTron/js/bootstrap.js",
+		"/C/Users/Billy Bob/Documents/GitHub/Sushi_Cafe/css/greek_fresh.css",
+		"/C/Users/Billy Bob/Documents/GitHub/Sushi_Cafe/css/greek_fresh_practice.css",
+		"/C/Users/Billy Bob/Documents/GitHub/JQuery_Practice/scripts/jquery_practice2.html",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/todo.js",
+		"/C/Users/Billy Bob/Documents/GitHub/JavaScript_Practice/css/javascript_practice.css",
+		"/C/Users/Billy Bob/Documents/GitHub/BootStrap_Practice/NavigationBar/css/navbar-fixed-top.css",
+		"/C/Users/Billy Bob/Documents/GitHub/BootStrap_Practice/NavigationBar/css/static_top.css",
+		"/C/Users/Billy Bob/Documents/GitHub/BootStrap_Practice/NavigationBar/css/theme.css",
+		"/C/Users/Billy Bob/Documents/GitHub/BootStrap_Practice/NavigationBar/navigationbar.html",
+		"/C/Users/Billy Bob/Documents/GitHub/BootStrap_Practice/NavigationBar/navigationbar_practice.html",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/controllers/controllers.js",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/controllers/controllers_practice4.js",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/app.js",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/app_practice3.js",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/partials/orders.html",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/partials/orders_practice2.html",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/partials/ordersTable.html",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/partials/ordersTable_practice2.html",
+		"/C/Users/Billy Bob/Documents/GitHub/JQuery_Practice/css/jquery_practice.css",
+		"/C/Users/Billy Bob/Documents/GitHub/Html_CSS_Practice/Intro.html",
+		"/C/Users/Billy Bob/Documents/GitHub/JavaScript_Practice/css/greek_fresh.css",
+		"/C/Users/Billy Bob/Documents/GitHub/JavaScript_Practice/css/greek_fresh_practice.css",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/partials/customers.html",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/partials/customers_practice2.html",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/partials/customerOrders.html",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/partials/customersOrders_practice2.html",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/controllers/controllers_practice3.js",
+		"/C/Users/Billy Bob/Documents/GitHub/Node_and_Express/async_request.js",
+		"/C/Users/Billy Bob/Documents/GitHub/Node_and_Express/async_request_practice.js",
+		"/C/Users/Billy Bob/Documents/GitHub/JavaScript_Practice/BootStrap Themes Practice.html",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/services/customersService.js",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/services/customerService_practice3.js",
+		"/C/Users/Billy Bob/Documents/GitHub/JavaScript_Practice/js/bootstrap.js",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/Scripts/jquery.min.js",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/controllers/controllers_practice2.js",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/services/customersService_practice2.js",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/app_practice2.js",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/directives/animatedView_practice.js",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/index_practice.html",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/todo_practice.js",
 		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/Content/styles.css",
 		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/Content/styles_practice.css",
-		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/partials/ordersTable.html",
 		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/partials/ordersTable_practice.html",
-		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/partials/orders.html",
 		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/partials/orders_practice.html",
-		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/partials/customers.html",
 		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/partials/customers_practice.html",
-		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/partials/customerOrders.html",
 		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/partials/customerOrders_practice.html",
-		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/services/customersService.js",
 		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/services/customersService_practice.js",
 		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/node_modules/connect/index.js",
-		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/directives/animatedView.js",
-		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/app.js",
 		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/app_practice.js",
-		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/controllers/controllers.js",
 		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/controllers/controllers_practice.js",
 		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/server.js",
 		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/server_practice.js",
 		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/CustomerManagementApp.html",
 		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/Angular_Practice.html",
-		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/Content/customerManagementStyles.css",
 		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/Content/customerManagementStyles-Practice.css",
-		"/C/Users/Billy Bob/Documents/GitHub/JavaScript_Practice/JavaScript_Practice.html",
-		"/C/Users/Billy Bob/Documents/GitHub/JavaScript_Practice/js/practice.js",
 		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/Partials/View1.html",
-		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/todo.js",
 		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/index2.html",
-		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/index.html",
-		"/C/Users/Billy Bob/Documents/GitHub/JavaScript_Practice/css/javascript_practice.css",
 		"/C/Users/Billy Bob/Documents/GitHub/JavaScript_Practice/css/intro-practice.css",
 		"/C/Users/Billy Bob/Documents/GitHub/JavaScript_Practice/css/css_practice.css",
 		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos_Practice/app/controllers/controllers.js",
-		"/C/Users/Billy Bob/Documents/GitHub/JavaScript_Practice/js/bootstrap.js",
 		"/C/Users/Billy Bob/Documents/GitHub/JavaScript_Practice/js/bootstrap.min.js",
 		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos_Practice/CustomerManagementApp.html",
-		"/C/Users/Billy Bob/Documents/GitHub/JavaScript_Practice/BootStrap Themes Practice.html",
 		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos_Practice/node_modules/connect/index.js",
 		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos_Practice/Scripts/angular-route.js",
 		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos_Practice/server.js",
@@ -149,9 +209,7 @@
 		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos_Practice/app/partials/customers-practice.html",
 		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos_Practice/DemoList.html",
 		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos_Practice/Content/customerManagementStyles.css",
-		"/C/Users/Billy Bob/Documents/GitHub/Html_CSS_Practice/Intro.html",
 		"/C/Users/Billy Bob/Documents/GitHub/Html_CSS_Practice/css/intro-practice.css",
-		"/C/Users/Billy Bob/Documents/GitHub/Sushi_Cafe/css/greek_fresh.css",
 		"/C/Users/Billy Bob/Documents/GitHub/Sushi_Cafe/Greek_Fresh.html",
 		"/C/Users/Billy Bob/Documents/GitHub/Html_CSS_Practice/css/theme.css",
 		"/C/Users/Billy Bob/Documents/GitHub/BootStrap_Practice/Theme Features/BootStrap Themes Practice.html",
@@ -176,30 +234,16 @@
 		"/C/Users/Billy Bob/Desktop/Angular Practice/AngularJSDemos/node_modules/connect/lib/connect.js",
 		"/C/Users/Billy Bob/Desktop/Node Scripts/server2.js",
 		"/C/Users/Billy Bob/Documents/GitHub/BootStrap_Practice/NavigationBar/navigationbar_static_top.html",
-		"/C/Users/Billy Bob/Documents/GitHub/BootStrap_Practice/NavigationBar/navigationbar.html",
 		"/C/Users/Billy Bob/Desktop/Angular Practice/AngularJSDemos/node_modules/connect/index.js",
 		"/C/Users/Billy Bob/Desktop/Angular Practice/AngularJSDemos/Web.config",
-		"/C/Users/Billy Bob/Documents/GitHub/BootStrap_Practice/NavigationBar/css/static_top.css",
 		"/C/Users/Billy Bob/Documents/GitHub/BootStrap_Practice/navigationbar.html",
 		"/C/Users/Billy Bob/Documents/GitHub/BootStrap_Practice/NavigationBar/navigationBar.sublime-project",
 		"/C/Users/Billy Bob/Desktop/Angular Practice/BootStrap Practice/JumboTron narrow/JumboTron Narrow.html",
-		"/C/Users/Billy Bob/Documents/GitHub/BootStrap_Practice/NavigationBar/css/navbar-fixed-top.css",
 		"/C/Users/Billy Bob/Desktop/Angular Practice/BootStrap Practice/JumboTron/JumboTron.html",
 		"/C/Users/Billy Bob/Desktop/Angular Practice/BootStrap Practice/Theme Features/BootStrap Themes Practice.html",
 		"/C/Users/Billy Bob/Desktop/Angular Practice/BootStrap Practice/BootStrap Themes Practice.html",
 		"/C/Users/Billy Bob/Desktop/Angular Practice/BootStrap Practice/BootStrap Practice.html",
-		"/C/Users/Billy Bob/Desktop/Angular Practice/BootStrap Practice/Sign_In_Page/sign_in_page.html",
-		"/C/Users/Billy Bob/Desktop/Angular Practice/BootStrap Practice/Sign_In_Page/css/signin.css",
-		"/C/Users/Billy Bob/Desktop/Angular Practice/AngularJSDemos/CustomerManagementApp.html",
-		"/C/Users/Billy Bob/Desktop/Angular Practice/JQuery Mobile Practice/Tab_Practice.html",
-		"/C/Users/Billy Bob/Desktop/Angular Practice/index2.html",
-		"/C/Users/Billy Bob/Desktop/Angular Practice/Partials/View1.html",
-		"/C/Users/Billy Bob/Desktop/Angular Practice/Partials/View2.html",
-		"/C/Users/Billy Bob/Desktop/Angular Practice/Partials/practice.js",
-		"/C/Users/Billy Bob/AppData/Roaming/Sublime Text 2/Packages/User/AngularJS-sublime-package.sublime-settings",
-		"/C/Users/Billy Bob/Desktop/Angular Practice/index.html",
-		"/C/Users/Billy Bob/Desktop/Angular Practice/todo.js",
-		"/C/Users/Billy Bob/Desktop/Node Scripts/index.js"
+		"/C/Users/Billy Bob/Desktop/Angular Practice/BootStrap Practice/Sign_In_Page/sign_in_page.html"
 	],
 	"find":
 	{
@@ -217,6 +261,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"jpg",
+			"hasClass",
+			"form-control",
+			"for",
+			"showButton",
+			"script",
 			"id",
 			"view",
 			"size",
@@ -268,10 +318,64 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/todo.js",
+					"file": "/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/CustomerManagementApp.html",
 					"settings":
 					{
-						"buffer_size": 153,
+						"buffer_size": 2530,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1123,
+								1123
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1200.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/CustomerManagementApp2.html",
+					"settings":
+					{
+						"buffer_size": 2092,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								931,
+								931
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 720.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Billy Bob/Documents/GitHub/jQuery/practice.html",
+					"settings":
+					{
+						"buffer_size": 6251,
 						"regions":
 						{
 						},
@@ -284,7 +388,8 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
