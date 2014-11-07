@@ -60,26 +60,26 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/CustomerManagementApp.html",
+			"file": "/C/Users/Billy Bob/Documents/GitHub/CodingBat_Practice/CodingBat_Practice5/MaxTriple.java",
 			"settings":
 			{
-				"buffer_size": 2530,
+				"buffer_size": 221,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/CustomerManagementApp2.html",
+			"file": "/C/Users/Billy Bob/Documents/GitHub/CodingBat_Practice/CodingBat_Practice5/RedTicket.java",
 			"settings":
 			{
-				"buffer_size": 2092,
+				"buffer_size": 166,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/Billy Bob/Documents/GitHub/jQuery/practice.html",
+			"file": "/C/Users/Billy Bob/Documents/GitHub/CodingBat_Practice/CodingBat_Practice5/GreenTicket.java",
 			"settings":
 			{
-				"buffer_size": 6251,
+				"buffer_size": 150,
 				"line_ending": "Windows"
 			}
 		}
@@ -116,11 +116,25 @@
 	},
 	"file_history":
 	[
-		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/Content/customerManagementStyles.css",
+		"/C/Users/Billy Bob/Documents/GitHub/CodingBat_Practice/CodingBat_Practice5/PlusOut.java",
+		"/C/Users/Billy Bob/Desktop/php/index.php",
+		"/C/Users/Billy Bob/Desktop/php/hello.php",
+		"/C/Users/Billy Bob/Desktop/php/app.yaml",
+		"/C/Users/Billy Bob/Desktop/php/helloworld.php",
+		"/C/Users/Billy Bob/Documents/GitHub/CodingBat_Practice/CodingBat_Practice5/WithoutX2.java",
+		"/C/Users/Billy Bob/Documents/GitHub/Reddit_is_Fun_Practice/src/com/andrewshu/android/reddit/submit/SubmitLinkActivity.java",
+		"/C/Users/Billy Bob/Documents/GitHub/CodingBat_Practice/CodingBat_Practice5/Array667.java",
+		"/C/Users/Billy Bob/Documents/GitHub/jQuery/scripts/practice.js",
+		"/C/Users/Billy Bob/Documents/GitHub/jQuery/scripts/practice2.js",
+		"/C/Users/Billy Bob/Documents/GitHub/CodingBat_Practice/CodingBat_Practice5/MidThree.java",
+		"/C/Users/Billy Bob/Documents/GitHub/CodingBat_Practice/CodingBat_Practice5/MaxMod5.java",
+		"/C/Users/Billy Bob/Documents/GitHub/CodingBat_Practice/CodingBat_Practice5/EqualisNot.java",
 		"/C/Users/Billy Bob/Documents/GitHub/jQuery/practice.html",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/CustomerManagementApp2.html",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/CustomerManagementApp.html",
+		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/Content/customerManagementStyles.css",
 		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/index.html",
 		"/C/Users/Billy Bob/Documents/GitHub/jQuery/css/practice.css",
-		"/C/Users/Billy Bob/Documents/GitHub/jQuery/scripts/practice.js",
 		"/C/Users/Billy Bob/Documents/GitHub/JavaScript_Practice/js/practice.js",
 		"/C/Users/Billy Bob/Documents/GitHub/jQuery/clever.html",
 		"/C/Users/Billy Bob/Documents/GitHub/jQuery/clever.js",
@@ -188,7 +202,6 @@
 		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/app/controllers/controllers_practice.js",
 		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/server.js",
 		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/server_practice.js",
-		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/CustomerManagementApp.html",
 		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/Angular_Practice.html",
 		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/Content/customerManagementStyles-Practice.css",
 		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/Partials/View1.html",
@@ -230,20 +243,7 @@
 		"/C/Users/Billy Bob/Documents/GitHub/Sushi_Cafe/css/theme.css",
 		"/C/Users/Billy Bob/Desktop/Node Scripts/server.js",
 		"/C/Users/Billy Bob/Desktop/Node Scripts/bootstrap_practice.html",
-		"/C/Users/Billy Bob/Desktop/Angular Practice/AngularJSDemos/server.js",
-		"/C/Users/Billy Bob/Desktop/Angular Practice/AngularJSDemos/node_modules/connect/lib/connect.js",
-		"/C/Users/Billy Bob/Desktop/Node Scripts/server2.js",
-		"/C/Users/Billy Bob/Documents/GitHub/BootStrap_Practice/NavigationBar/navigationbar_static_top.html",
-		"/C/Users/Billy Bob/Desktop/Angular Practice/AngularJSDemos/node_modules/connect/index.js",
-		"/C/Users/Billy Bob/Desktop/Angular Practice/AngularJSDemos/Web.config",
-		"/C/Users/Billy Bob/Documents/GitHub/BootStrap_Practice/navigationbar.html",
-		"/C/Users/Billy Bob/Documents/GitHub/BootStrap_Practice/NavigationBar/navigationBar.sublime-project",
-		"/C/Users/Billy Bob/Desktop/Angular Practice/BootStrap Practice/JumboTron narrow/JumboTron Narrow.html",
-		"/C/Users/Billy Bob/Desktop/Angular Practice/BootStrap Practice/JumboTron/JumboTron.html",
-		"/C/Users/Billy Bob/Desktop/Angular Practice/BootStrap Practice/Theme Features/BootStrap Themes Practice.html",
-		"/C/Users/Billy Bob/Desktop/Angular Practice/BootStrap Practice/BootStrap Themes Practice.html",
-		"/C/Users/Billy Bob/Desktop/Angular Practice/BootStrap Practice/BootStrap Practice.html",
-		"/C/Users/Billy Bob/Desktop/Angular Practice/BootStrap Practice/Sign_In_Page/sign_in_page.html"
+		"/C/Users/Billy Bob/Desktop/Angular Practice/AngularJSDemos/server.js"
 	],
 	"find":
 	{
@@ -313,83 +313,81 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/CustomerManagementApp.html",
+					"file": "/C/Users/Billy Bob/Documents/GitHub/CodingBat_Practice/CodingBat_Practice5/MaxTriple.java",
 					"settings":
 					{
-						"buffer_size": 2530,
+						"buffer_size": 221,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1123,
-								1123
+								219,
+								219
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"auto_name": "",
+							"syntax": "Packages/Java/Java.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1200.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos/CustomerManagementApp2.html",
+					"file": "/C/Users/Billy Bob/Documents/GitHub/CodingBat_Practice/CodingBat_Practice5/RedTicket.java",
 					"settings":
 					{
-						"buffer_size": 2092,
+						"buffer_size": 166,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								931,
-								931
+								45,
+								164
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/AngularJS/AngularJS.tmLanguage"
+							"syntax": "Packages/Java/Java.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 720.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "/C/Users/Billy Bob/Documents/GitHub/jQuery/practice.html",
+					"file": "/C/Users/Billy Bob/Documents/GitHub/CodingBat_Practice/CodingBat_Practice5/GreenTicket.java",
 					"settings":
 					{
-						"buffer_size": 6251,
+						"buffer_size": 150,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								47,
+								148
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Java/Java.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
