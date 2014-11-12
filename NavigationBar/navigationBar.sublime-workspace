@@ -60,42 +60,34 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/Billy Bob/Documents/GitHub/CodingBat_Practice/CodingBat_Practice5/MaxTriple.java",
+			"file": "/C/Sites/Ruby_On_Rails_Blog/blog/ruby_practice/blocks.rb",
 			"settings":
 			{
-				"buffer_size": 221,
+				"buffer_size": 65,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/Billy Bob/Documents/GitHub/CodingBat_Practice/CodingBat_Practice5/RedTicket.java",
+			"file": "/C/Sites/Ruby_On_Rails_Blog/blog/ruby_practice/interator.rb",
 			"settings":
 			{
-				"buffer_size": 166,
+				"buffer_size": 58,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/Billy Bob/Documents/GitHub/CodingBat_Practice/CodingBat_Practice5/GreenTicket.java",
+			"file": "/C/Sites/Ruby_On_Rails_Blog/blog/ruby_practice/loops.rb",
 			"settings":
 			{
-				"buffer_size": 150,
+				"buffer_size": 80,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/Billy Bob/Documents/GitHub/CodingBat_Practice/CodingBat_Practice5/FrontPiece.java",
+			"file": "/C/Sites/Ruby_On_Rails_Blog/blog/ruby_practice/song.rb",
 			"settings":
 			{
-				"buffer_size": 150,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/Billy Bob/Documents/GitHub/CodingBat_Practice/CodingBat_Practice5/Unlucky1.java",
-			"settings":
-			{
-				"buffer_size": 291,
+				"buffer_size": 375,
 				"line_ending": "Windows"
 			}
 		}
@@ -132,6 +124,26 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Billy Bob/Documents/GitHub/CodingBat_Practice/CodingBat_Practice5/has271.java",
+		"/C/Sites/Ruby_On_Rails_Blog/blog/ruby_practice/array.rb",
+		"/C/Sites/Ruby_On_Rails_Blog/blog/eval.rb",
+		"/C/Sites/Ruby_On_Rails_Blog/blog/db/migrate/20141111222956_create_articles.rb",
+		"/C/Sites/Ruby_On_Rails_Blog/blog/app/views/articles/show.html.erb",
+		"/C/Sites/Ruby_On_Rails_Blog/blog/app/controllers/articles_controller.rb",
+		"/C/Sites/Ruby_On_Rails_Blog/blog/app/views/articles/new.html.erb",
+		"/C/Sites/blog/app/views/welcome/index.html.erb",
+		"/C/Users/Billy Bob/Documents/GitHub/CodingBat_Practice/CodingBat_Practice5/Make2.java",
+		"/C/Users/Billy Bob/Documents/GitHub/CodingBat_Practice/CodingBat_Practice5/Front11.java",
+		"/C/Sites/blog/config/routes.rb",
+		"/C/Sites/blog/app/controllers/articles_controller.rb",
+		"/C/Sites/blog/app/views/articles/new.html.erb",
+		"/C/Sites/blog/app/controllers/welcome_controller.rb",
+		"/C/Users/Billy Bob/Documents/GitHub/CodingBat_Practice/CodingBat_Practice5/noTriples.java",
+		"/C/Users/Billy Bob/Documents/GitHub/CodingBat_Practice/CodingBat_Practice5/Unlucky1.java",
+		"/C/Users/Billy Bob/Documents/GitHub/CodingBat_Practice/CodingBat_Practice5/FrontPiece.java",
+		"/C/Users/Billy Bob/Documents/GitHub/CodingBat_Practice/CodingBat_Practice5/GreenTicket.java",
+		"/C/Users/Billy Bob/Documents/GitHub/CodingBat_Practice/CodingBat_Practice5/RedTicket.java",
+		"/C/Users/Billy Bob/Documents/GitHub/CodingBat_Practice/CodingBat_Practice5/MaxTriple.java",
 		"/C/Users/Billy Bob/Documents/GitHub/CodingBat_Practice/CodingBat_Practice5/PlusOut.java",
 		"/C/Users/Billy Bob/Desktop/php/index.php",
 		"/C/Users/Billy Bob/Desktop/php/hello.php",
@@ -239,27 +251,7 @@
 		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos_Practice/DemoList.html",
 		"/C/Users/Billy Bob/Documents/GitHub/Angular_Practice/AngularJSDemos_Practice/Content/customerManagementStyles.css",
 		"/C/Users/Billy Bob/Documents/GitHub/Html_CSS_Practice/css/intro-practice.css",
-		"/C/Users/Billy Bob/Documents/GitHub/Sushi_Cafe/Greek_Fresh.html",
-		"/C/Users/Billy Bob/Documents/GitHub/Html_CSS_Practice/css/theme.css",
-		"/C/Users/Billy Bob/Documents/GitHub/BootStrap_Practice/Theme Features/BootStrap Themes Practice.html",
-		"/C/Users/Billy Bob/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
-		"/C/Users/Billy Bob/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-		"/C/Users/Billy Bob/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-		"/C/Users/Billy Bob/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
-		"/C/Program Files (x86)/Sirtech/Wizardry 8/CosmicForge_UNICODE/w8stringroles.usr",
-		"/C/Users/Billy Bob/Documents/GitHub/Reddit_is_Fun_Practice/project.properties",
-		"/C/Users/Billy Bob/Documents/GitHub/Reddit_is_Fun_Practice/.project",
-		"/C/Users/Billy Bob/Documents/GitHub/Reddit_is_Fun_Practice/.classpath",
-		"/C/Users/Billy Bob/Documents/GitHub/Reddit_is_Fun_Practice/.git/index",
-		"/C/Users/Billy Bob/Documents/GitHub/Html_CSS_Practice/README.markdown",
-		"/C/Users/Billy Bob/Documents/GitHub/Sushi_Cafe/css/css_practice.css",
-		"/C/Users/Billy Bob/Documents/GitHub/Sushi_Cafe/Sushi_Cafe.html",
-		"/C/Users/Billy Bob/Documents/GitHub/Sushi_Cafe/css/sushi_cafe_style.css",
-		"/C/Users/Billy Bob/Desktop/Angular Practice/AngularJSDemos_Practice/CustomerManagementApp.html",
-		"/C/Users/Billy Bob/Documents/GitHub/Sushi_Cafe/css/theme.css",
-		"/C/Users/Billy Bob/Desktop/Node Scripts/server.js",
-		"/C/Users/Billy Bob/Desktop/Node Scripts/bootstrap_practice.html",
-		"/C/Users/Billy Bob/Desktop/Angular Practice/AngularJSDemos/server.js"
+		"/C/Users/Billy Bob/Documents/GitHub/Sushi_Cafe/Greek_Fresh.html"
 	],
 	"find":
 	{
@@ -329,29 +321,28 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/Billy Bob/Documents/GitHub/CodingBat_Practice/CodingBat_Practice5/MaxTriple.java",
+					"file": "/C/Sites/Ruby_On_Rails_Blog/blog/ruby_practice/blocks.rb",
 					"settings":
 					{
-						"buffer_size": 221,
+						"buffer_size": 65,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								219,
-								219
+								63,
+								63
 							]
 						],
 						"settings":
 						{
-							"auto_name": "",
-							"syntax": "Packages/Java/Java.tmLanguage"
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -361,23 +352,23 @@
 				},
 				{
 					"buffer": 1,
-					"file": "/C/Users/Billy Bob/Documents/GitHub/CodingBat_Practice/CodingBat_Practice5/RedTicket.java",
+					"file": "/C/Sites/Ruby_On_Rails_Blog/blog/ruby_practice/interator.rb",
 					"settings":
 					{
-						"buffer_size": 166,
+						"buffer_size": 58,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								45,
-								164
+								57,
+								57
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Java/Java.tmLanguage"
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -387,23 +378,23 @@
 				},
 				{
 					"buffer": 2,
-					"file": "/C/Users/Billy Bob/Documents/GitHub/CodingBat_Practice/CodingBat_Practice5/GreenTicket.java",
+					"file": "/C/Sites/Ruby_On_Rails_Blog/blog/ruby_practice/loops.rb",
 					"settings":
 					{
-						"buffer_size": 150,
+						"buffer_size": 80,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								47,
-								148
+								79,
+								79
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Java/Java.tmLanguage"
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -413,49 +404,24 @@
 				},
 				{
 					"buffer": 3,
-					"file": "/C/Users/Billy Bob/Documents/GitHub/CodingBat_Practice/CodingBat_Practice5/FrontPiece.java",
+					"file": "/C/Sites/Ruby_On_Rails_Blog/blog/ruby_practice/song.rb",
 					"settings":
 					{
-						"buffer_size": 150,
+						"buffer_size": 375,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								148,
-								148
+								356,
+								356
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Java/Java.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/C/Users/Billy Bob/Documents/GitHub/CodingBat_Practice/CodingBat_Practice5/Unlucky1.java",
-					"settings":
-					{
-						"buffer_size": 291,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								207,
-								207
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Java/Java.tmLanguage"
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
